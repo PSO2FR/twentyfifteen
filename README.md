@@ -1,6 +1,7 @@
 # Twenty Fifteen
 
-Forked from Wordpress' Twenty Fifteen theme.
+Forked from Wordpress' Twenty Fifteen theme.  
+Current version is `2.9`.
 
 ## Original source
 
